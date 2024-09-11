@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Improving My Skills.<br>👯 I’m looking to collaborate on MangaHeaven. Project<br>🤝 I’m looking for help with jobs and Guideness.<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about Full Stack Development.<br>⚡ Fun fact is that i have no working experience.
+🔭 I’m currently working on Improving My Skills.<br>👯 I’m looking to collaborate on MangaHeaven Project. <br>🤝 I’m looking for help with jobs and Guideness.<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about Full Stack Development.<br>⚡ Fun fact is that i have no working experience.
 
 
 ## 🌐 Socials:
